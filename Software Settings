@@ -1,0 +1,7 @@
+BLAST: Standard Database - RefSeq_rna - Humans (taxid:9605) - Exclude: Models (XM/XP), Uncultured/Environmental Sample Sequences - blastn - Expect Treshold = 1000 - Word Size = 7
+
+SiDirect: Ui-Tei et al., Nucleic Acids Res 32, 936-948 (2004) - Seed-Duplex Stability = 21.5 - Specificity Check = Humans (Homo Sapiens) transcript, RefSeq, release 230, (May 2025)
+
+RNAFold: Folding constraints = default -  MFE and partition function - avoid isolated base pairs - rest left as default
+
+Ensembl: N/A
